@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saranam Sowmya</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saranam-sowmya-2004&label=Profile%20views&color=0e75b6&style=flat" alt="saranam-sowmya-2004" /> </p>
 
+- 🌱 I’m currently learning **reactjs, nodejs ,Flask**
+
 - 📫 How to reach me **saranamsowmya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
